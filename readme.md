@@ -1,3 +1,6 @@
+# 知乎看山杯
+比赛链接：https://biendata.com/competition/zhihu/
+
 ## 数据预处理
 使用了数据集中词语级别的问题 title 和问题描述的信息以及词语级别的 embedding 向量。
 
